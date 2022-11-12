@@ -1,0 +1,18 @@
+body{
+    height: 100vh;
+    background:linear-gradient(to right, #fface8, #764ba2);
+}
+
+.card{
+    width: 320px;
+    height: 400px;
+    background-color: gray;
+}
+
+.card_heart, .card_cart{
+    font-size: 25px;
+    position: absolute;
+}
+
+
+
